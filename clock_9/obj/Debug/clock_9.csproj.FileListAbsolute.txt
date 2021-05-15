@@ -1,9 +1,0 @@
-C:\Users\worte\source\repos\clock_9\clock_9\bin\Debug\clock_9.exe.config
-C:\Users\worte\source\repos\clock_9\clock_9\bin\Debug\clock_9.exe
-C:\Users\worte\source\repos\clock_9\clock_9\bin\Debug\clock_9.pdb
-C:\Users\worte\source\repos\clock_9\clock_9\obj\Debug\clock_9.csprojAssemblyReference.cache
-C:\Users\worte\source\repos\clock_9\clock_9\obj\Debug\clock_9.Form1.resources
-C:\Users\worte\source\repos\clock_9\clock_9\obj\Debug\clock_9.Properties.Resources.resources
-C:\Users\worte\source\repos\clock_9\clock_9\obj\Debug\clock_9.csproj.GenerateResource.cache
-C:\Users\worte\source\repos\clock_9\clock_9\obj\Debug\clock_9.exe
-C:\Users\worte\source\repos\clock_9\clock_9\obj\Debug\clock_9.pdb
